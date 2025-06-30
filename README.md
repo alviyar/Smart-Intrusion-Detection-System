@@ -26,10 +26,11 @@ Simulate a smart system that:
 - ESP32
 - PIR Sensor
 - Jumper wires
+- Resister
 
 **Software:**
-- Arduino IDE / Wokwi
-- Blynk or ThingSpeak (for future use)
+ Wokwi
+
 
 
 
