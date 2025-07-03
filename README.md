@@ -17,7 +17,7 @@ Simulate a smart system that:
 
 ## 🚀 Scope of the Solution
 - Real-time monitoring of restricted areas
-- Cloud-based alerting (Blynk/ThingSpeak simulation)
+- Cloud-based alerting
 - Useful in homes, offices, labs, etc.
 
 ## 🛠 Required Components
