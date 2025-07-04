@@ -1,3 +1,5 @@
+//Industrial IOT Architecture and Application
+//Alviya Rizwan 23BEC1160
 int pirPin = 15;  // PIR sensor output pin
 int ledPin = 2;   // Optional: LED pin
 
